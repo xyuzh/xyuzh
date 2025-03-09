@@ -1,16 +1,19 @@
 ## Hi there 👋
 
-<!--
-**xyuzh/xyuzh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🎓 Education
+- **Carnegie Mellon University**  
+  *School of Computer Science*
+- **Massachusetts Institute of Technology**  
+  *Advanced Study*
 
-Here are some ideas to get you started:
+### 📊 GitHub Stats
+[![Xinyu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=xyuzh&show_icons=true&theme=tokyonight&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=xyuzh&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=xyuzh&theme=tokyonight)](https://github.com/DenverCoder1/github-readme-streak-stats)
+
+---
+
+### 🔗 Connect with Me  
+🐦 **Twitter (X):** [@xinyzng](https://x.com/xinyzng)
