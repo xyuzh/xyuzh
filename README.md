@@ -3,8 +3,6 @@
 ### 🎓 Education
 - **Carnegie Mellon University**  
   *School of Computer Science*
-- **Massachusetts Institute of Technology**  
-  *Advanced Study*
 
 ### 📊 GitHub Stats
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=xyuzh&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
